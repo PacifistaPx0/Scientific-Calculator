@@ -1,4 +1,4 @@
 # Scientific-Calculator
 
 
-Calculator made with Python OOP
+Calculator made with Python OOP using Tkinter
